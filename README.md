@@ -12,6 +12,6 @@ Weather on the Web is solely focused on data APIs as opposed to product APIs, in
 
 Weather on the Web will not consider Use Cases that require specific business knowledge of the end use. 
 
-*Weather meaning any meteorological information that covers past present and future state of the atmosphere including observations and climitalogical data.
+*Weather meaning any meteorological information that covers past present and future state of the atmosphere including observations and climatological data.
 
 **encoding extensions: for example specifying GeoJSON structures for describing weather at a specific location.
